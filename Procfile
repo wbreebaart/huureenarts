@@ -1,1 +1,1 @@
-web: huureenarts.js
+web: node huureenarts.js
